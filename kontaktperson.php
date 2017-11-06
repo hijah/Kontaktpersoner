@@ -1,7 +1,13 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jacob
- * Date: 06-11-2017
- * Time: 13:16
- */
+class kontaktperson{
+
+    public $name = '';
+    public $phonenumber;
+    public $adress = '';
+    public $comment = '';
+
+    function _constructor(){
+
+    }
+}
+?>
